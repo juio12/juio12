@@ -8,7 +8,7 @@
  ![java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white)  ![c](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=white)  ![html](https://img.shields.io/badge/Html-F7DF1E?style=for-the-badge&logo=Html&logoColor=white) ![css](https://img.shields.io/badge/Css-F7DF1E?style=for-the-badge&logo=Css&logoColor=white)
 </details>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juio12)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juio12)](https://github.com/anuraghazra/github-readme-stats)
  
 <!---
 juio12/juio12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
