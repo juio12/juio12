@@ -1,11 +1,31 @@
 - 👋 Hi, I’m 최주희
+
+
+
+
+
+[
+  {
+
+    name: 최주희
+
+    school: 미림마이스터고
+
+    github ID: juio12
+
+    email: juhuic304@gmail.com
+  
+  }
+]
+
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
 </summary>
    <br>
   
- ![java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white)  ![c](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=white)  ![html](https://img.shields.io/badge/Html-F7DF1E?style=for-the-badge&logo=Html&logoColor=white) ![css](https://img.shields.io/badge/Css-F7DF1E?style=for-the-badge&logo=Css&logoColor=white)
+  
+  ![java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white)  ![c](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=white)  ![html](https://img.shields.io/badge/Html-F7DF1E?style=for-the-badge&logo=Html&logoColor=white) ![css](https://img.shields.io/badge/Css-F7DF1E?style=for-the-badge&logo=Css&logoColor=white)
 </details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juio12)](https://github.com/anuraghazra/github-readme-stats)
